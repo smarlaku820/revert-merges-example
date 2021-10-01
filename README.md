@@ -10,3 +10,4 @@ this is the SIXTH line which is modified and coming as part of 1.2.0 branch
 
 this will be reverted from another branch.
 
+this will also be considered as a merge conflict ? not sure, lets check
