@@ -1,3 +1,7 @@
 # revert-merges-example
 
-this text will be reverted
+this is the first line
+this is the second line
+this is the third line
+this is the fourth line
+this is the fifth line
